@@ -1,0 +1,23 @@
+.projects-div{
+    /* border: solid black; */
+    width: 100vw;
+    height: 85vh;
+}
+
+.Projects {
+    /* border: solid blue; */
+    height: inherit;
+    background-image: url('../../Images/profileimg3.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+
+.projects-container h1 {
+    position: relative;
+    top: 1em;
+    left: 5em;
+    font-family: 'Lora', serif;
+    font-weight: 100;
+    font-size: 1.7em;
+}

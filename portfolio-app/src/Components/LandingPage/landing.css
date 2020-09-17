@@ -1,0 +1,27 @@
+.landing-div{
+    border: solid purple;
+    background: yellow;
+    width: 100vw;
+    height: 85vh;
+    position: relative;
+    /* top: 0em; */
+}
+
+
+.landing-img {
+    /* border: solid green; */
+    height: 100vh;
+    background-image: url('../../Images/Landing1.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position-y: -6em;
+}
+
+.landing-div h1{
+    position: relative;
+    top:14.3em;
+    text-align: center;
+    font-family: 'Lora', serif;
+    font-weight: 100;
+    font-size: 1.7em;
+}

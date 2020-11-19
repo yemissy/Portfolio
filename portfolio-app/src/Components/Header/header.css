@@ -1,4 +1,4 @@
-.header{
+/* .header{
     min-width: 100vw;
     min-height: 100vh;
     position: fixed;
@@ -15,12 +15,11 @@
 }
 
 .header h1{
-    /* width: 11em; */
     font-family: 'Lora', serif;
     font-weight: 100;
     margin-left: 0.4em;
     font-size:1.7em;
-}
+} */
 
 /* .header_items {
     display: flex;

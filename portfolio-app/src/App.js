@@ -28,7 +28,6 @@ function App() {
     `
 
   return (
-    (console.log(headerClick)),
     <div className="App">
          <header className="App-header" onClick={() => setHeaderClick(true)}>
             <Header click={headerClick}/>
